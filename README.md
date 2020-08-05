@@ -4,7 +4,7 @@ A Java program for aggregating Princeton Sailing's results from the past 10 seas
 
 ## Credits
 
-Made using the HTML parser (JSoup)[https://jsoup.org].
+Made using the HTML parser [JSoup](https://jsoup.org).
 
 ## Running
 
